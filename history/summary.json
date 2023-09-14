@@ -15,7 +15,9 @@
     "timeWeek": 1872,
     "timeMonth": 1925,
     "timeYear": 1419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-14": 0
+    }
   },
   {
     "name": "Google",
