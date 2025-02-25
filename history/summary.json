@@ -4,7 +4,7 @@
     "url": "https://cosgrid.com",
     "icon": "https://icons.duckduckgo.com/ip3/cosgrid.com.ico",
     "slug": "cosgrid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1632,
     "timeYear": 1462,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2024-11-12": 19,
       "2024-09-17": 205,
       "2024-08-18": 58,
