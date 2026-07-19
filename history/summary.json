@@ -4,17 +4,17 @@
     "url": "https://cosgrid.com",
     "icon": "https://icons.duckduckgo.com/ip3/cosgrid.com.ico",
     "slug": "cosgrid",
-    "status": "down",
+    "status": "up",
     "uptime": "84.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "47.86%",
-    "time": 2499,
-    "timeDay": 4038,
-    "timeWeek": 3771,
-    "timeMonth": 3848,
-    "timeYear": 3138,
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "47.83%",
+    "time": 2506,
+    "timeDay": 3925,
+    "timeWeek": 3776,
+    "timeMonth": 3847,
+    "timeYear": 3142,
     "dailyMinutesDown": {
       "2026-04-17": 375,
       "2026-04-16": 1440,
@@ -208,7 +208,8 @@
       "2025-10-10": 1440,
       "2025-10-09": 610,
       "2026-04-27": 442,
-      "2026-04-26": 485
+      "2026-04-26": 485,
+      "2026-07-19": 144
     }
   },
   {
