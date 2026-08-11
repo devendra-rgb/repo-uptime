@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosgrid.com.ico",
     "slug": "cosgrid",
     "status": "up",
-    "uptime": "84.34%",
+    "uptime": "84.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
@@ -217,22 +217,23 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 117,
-    "timeDay": 68,
-    "timeWeek": 100,
-    "timeMonth": 83,
-    "timeYear": 122,
+    "time": 118,
+    "timeDay": 247,
+    "timeWeek": 133,
+    "timeMonth": 93,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2025-08-21": 21,
       "2025-12-14": 52,
       "2025-12-21": 20,
-      "2026-08-08": 39
+      "2026-08-08": 39,
+      "2026-08-11": 0
     }
   }
 ]
